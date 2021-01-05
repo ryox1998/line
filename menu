@@ -1,0 +1,187 @@
+{
+  "line": {
+"type": "flex",
+"altText": "Flex Message",
+"contents": {
+  "type": "bubble",
+  "direction": "ltr",
+  "hero": {
+    "type": "image",
+    "url": "https://scontent.fphs2-1.fna.fbcdn.net/v/t1.0-9/120271578_3216779668377491_6445552751789332323_n.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeG_W9peKJU8o1Vft11JTtw0vXJ_7GOmjL69cn_sY6aMvrkR1ftbbu6l_WPCZbKTYbhO8Az61f5nWdrEZiTq6hGI&_nc_ohc=yjg5fRSwpyMAX-pvh_P&_nc_ht=scontent.fphs2-1.fna&oh=201106ca8fe472eb2ae96f34a071145d&oe=601B3D6D",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "label": "Action",
+      "uri": "https://linecorp.com"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "action": {
+      "type": "uri",
+      "label": "Action",
+      "uri": "https://linecorp.com"
+    },
+    "contents": [
+      {
+        "type": "text",
+        "text": "มีหมายเลขโทรศัพท์สำคัญอะไรบ้างที่ควรมีติดตัวระหว่างท่องเที่ยว ?",
+        "weight": "bold",
+        "size": "sm",
+        "gravity": "center",
+        "wrap": true,
+        "contents": []
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://online.skill3th.com/wp-content/uploads/2017/08/call-icon.png"
+              },
+              {
+                "type": "text",
+                "text": "โทร 1155 ",
+                "weight": "bold",
+                "margin": "sm",
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "ตำรวจท่องเที่ยว",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "align": "end",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://online.skill3th.com/wp-content/uploads/2017/08/call-icon.png"
+              },
+              {
+                "type": "text",
+                "text": "โทร 191",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "sm",
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "ตำรวจ,รถดับเพลิง ",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "align": "end",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://online.skill3th.com/wp-content/uploads/2017/08/call-icon.png"
+              },
+              {
+                "type": "text",
+                "text": "โทร 1669",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "sm",
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "รถพยาบาล",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "align": "end",
+                "contents": []
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://online.skill3th.com/wp-content/uploads/2017/08/call-icon.png"
+              },
+              {
+                "type": "text",
+                "text": "โทร 1672",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "sm",
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "ศูนย์ข้อมูลท่องเที่ยว ททท.",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "align": "end",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "ททท. ตาก (เปิดจันทร์-ศุกร์ เวลา 08.30-16.30 น.)",
+        "weight": "bold",
+        "size": "xxs",
+        "color": "#F38445FF",
+        "align": "center",
+        "margin": "xxl",
+        "wrap": true,
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "spacer",
+        "size": "xxl"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อ ททท.",
+          "uri": "https://www.facebook.com/taktravel"
+        },
+        "color": "#905C44",
+        "style": "primary"
+      }
+    ]
+  }
+}
+}
+}
